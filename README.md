@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+I am a student.<br>
+I am interested in VR and Brain-machine Interface.
+
+### 🍵 Technologies
+[![My Skills](https://skillicons.dev/icons?i=py,c,cpp,cs,blender)](https://skillicons.dev)
+
+
 <!--
 **rinkoiky/rinkoiky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
