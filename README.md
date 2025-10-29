@@ -1,9 +1,13 @@
 ## Hi there 👋
 
+### About Me
 I am a student.<br>
 I am interested in VR and Brain-machine Interface.
 
-### 🍵 Technologies
+### Currently Learning
+Deep Learning, Signal Processing
+
+### 🍵 Skills
 [![My Skills](https://skillicons.dev/icons?i=py,c,cpp,cs,blender)](https://skillicons.dev)
 
 
