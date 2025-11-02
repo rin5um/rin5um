@@ -8,7 +8,7 @@ I am interested in VR and Brain-machine Interface.
 Deep Learning, Signal Processing
 
 ### 🍵 Skills
-[![My Skills](https://skillicons.dev/icons?i=py,c,cpp,cs,blender)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,c,cpp,cs,unity,blender)](https://skillicons.dev)
 
 
 <!--
