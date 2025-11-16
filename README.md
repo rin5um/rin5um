@@ -2,7 +2,7 @@
 
 ### About Me
 I am a student.<br>
-I am interested in VR and Brain-machine Interface.
+I am interested in Virtual Reality (VR) and neuroscience.
 
 ### Currently Learning
 Deep Learning, Signal Processing
