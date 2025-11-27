@@ -1,13 +1,13 @@
-## Hi there 👋
+## Hello, I'm Rin !!🍵
 
 ### About Me
 I am a student.<br>
-I am interested in Virtual Reality (VR) and neuroscience.
+I am interested in OT security and Virtual Reality (VR).
 
 ### Currently Learning
-Deep Learning, Signal Processing
+Deep Learning, Signal Processing, Verilog HDL, etc.
 
-### 🍵 Skills
+### 🌱 Skills
 [![My Skills](https://skillicons.dev/icons?i=py,c,cpp,cs,unity,blender)](https://skillicons.dev)
 
 
