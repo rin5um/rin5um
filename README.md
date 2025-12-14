@@ -2,7 +2,7 @@
 
 ### About Me
 I am a student.<br>
-I am interested in OT security and Virtual Reality (VR).
+I am interested in OT security and Robotics.
 
 ### Currently Learning
 Deep Learning, Signal Processing, Verilog HDL, etc.
