@@ -8,7 +8,7 @@ I am interested in Network and Security.
 Deep Learning, Signal Processing, Verilog HDL, etc.
 
 ### 🌱 Skills
-[![My Skills](https://skillicons.dev/icons?i=py,c,cpp,cs,unity,blender)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,java,c,cpp,cs,unity,blender)](https://skillicons.dev)
 
 
 <!--
