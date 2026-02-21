@@ -5,7 +5,7 @@ I am a student.<br>
 I am interested in Network and Security.
 
 ### Currently Learning
-Deep Learning, Signal Processing, Verilog HDL, etc.
+Network, Hardware Security, Verilog HDL, etc.
 
 ### 🌱 Skills
 [![My Skills](https://skillicons.dev/icons?i=py,java,c,cpp,cs,unity,blender)](https://skillicons.dev)
