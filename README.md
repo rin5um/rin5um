@@ -11,7 +11,7 @@ Network, Hardware Security, Verilog HDL, etc.
 JANOG58 NOC Cable_Team
 
 ### 🌱 Skills
-[![My Skills](https://skillicons.dev/icons?i=py,java,c,cpp,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,flask,java,aws,docker,linux,latex)](https://skillicons.dev)
 
 
 <!--
