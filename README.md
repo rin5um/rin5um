@@ -7,8 +7,11 @@ I am interested in Network and Security.
 ### Currently Learning
 Network, Hardware Security, Verilog HDL, etc.
 
+### Experience
+JANOG58 NOC Cable_Team
+
 ### 🌱 Skills
-[![My Skills](https://skillicons.dev/icons?i=py,java,c,cpp,cs,unity,blender)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,java,c,cpp,docker)](https://skillicons.dev)
 
 
 <!--
