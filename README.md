@@ -1,4 +1,4 @@
-## Hello, I'm Rin !!🍵
+## Hello, I'm Rin 🍵
 
 ### About Me
 I am a student.<br>
