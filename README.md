@@ -2,10 +2,10 @@
 
 ### About Me
 I am a student.<br>
-I am interested in Network and Security.
+I am interested in Information Security.
 
 ### Currently Learning
-Network, Hardware Security, Verilog HDL, etc.
+Network, Security, Verilog HDL, etc.
 
 ### Experience
 JANOG58 NOC
