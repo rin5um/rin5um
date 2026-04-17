@@ -1,8 +1,7 @@
 ## Hello, I'm Rin 🍵
 
 ### About Me
-I am a student.<br>
-I am interested in Information Security.
+I am interested in Security.
 
 ### Currently Learning
 Network, Security, Verilog HDL, etc.
