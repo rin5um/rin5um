@@ -13,7 +13,7 @@ JANOG58 NOC
 ### 🌱 Skills
 **Languages**
 
-[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,java,latex)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,go,js,ts,java,c,cpp,atex)](https://skillicons.dev)
 
 **Tools & Infrastructure**
 
