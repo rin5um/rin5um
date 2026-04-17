@@ -11,7 +11,13 @@ Network, Security, Verilog HDL, etc.
 JANOG58 NOC
 
 ### 🌱 Skills
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,flask,java,aws,docker,linux,latex)](https://skillicons.dev)
+**Languages**
+
+[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,java,latex)](https://skillicons.dev)
+
+**Tools & Infrastructure**
+
+[![My Skills](https://skillicons.dev/icons?i=flask,aws,docker,linux)](https://skillicons.dev)
 
 
 <!--
