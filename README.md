@@ -16,7 +16,7 @@ JANOG58 NOC
 
 **Tools & Infrastructure**
 
-[![My Skills](https://skillicons.dev/icons?i=flask,aws,docker,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flask,aws,docker,k8s,linux)](https://skillicons.dev)
 
 
 <!--
