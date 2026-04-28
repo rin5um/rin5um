@@ -7,7 +7,7 @@ I am interested in Security.
 Network, Security, Verilog HDL, etc.
 
 ### Experience
-JANOG58 NOC
+JANOG58 NOC (Cable Team)  |  [NOC member (Team BAKUCHIKU)](https://www.janog.gr.jp/meeting/janog58/nocmember/)
 
 ### 🌱 Skills
 **Languages**
