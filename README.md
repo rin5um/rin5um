@@ -12,11 +12,11 @@ JANOG58 NOC (Cable Team)  |  [NOC member (Team BAKUCHIKU)](https://www.janog.gr.
 ### 🌱 Skills
 **Languages**
 
-[![My Skills](https://skillicons.dev/icons?i=python,go,js,ts,java,c,cpp,atex)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,go,java,c,cpp,atex)](https://skillicons.dev)
 
 **Tools & Infrastructure**
 
-[![My Skills](https://skillicons.dev/icons?i=flask,aws,docker,k8s,linux,latex,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flask,aws,docker,k8s,linux,)](https://skillicons.dev)
 
 
 <!--
