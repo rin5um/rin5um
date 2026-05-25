@@ -9,7 +9,7 @@ Network, Security, Verilog HDL, etc.
 ### Experience
 JANOG58 NOC (Cable Team)  |  [NOC member (Team BAKUCHIKU)](https://www.janog.gr.jp/meeting/janog58/nocmember/)
 
-SecHack365'26 研究駆動コース 参加
+2026年度 SecHack365 研究駆動コース 参加
 
 ### 🌱 Skills
 **Languages**
