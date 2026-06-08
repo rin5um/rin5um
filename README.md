@@ -4,7 +4,7 @@
 I am interested in Security.
 
 ### Currently Learning
-Computer Network, Operating System, Verilog HDL, Hardware security
+Computer Network, Operating System, Verilog HDL, Hardware Security
 
 ### Experience
 JANOG58 NOC (Cable Team)  |  [NOC member (Team BAKUCHIKU)](https://www.janog.gr.jp/meeting/janog58/nocmember/)
