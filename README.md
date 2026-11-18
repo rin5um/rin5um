@@ -18,7 +18,7 @@ JANOG58 NOC (Cable Team)  |  [NOC member (Team BAKUCHIKU)](https://www.janog.gr.
 
 **Tools & Infrastructure**
 
-[![My Skills](https://skillicons.dev/icons?i=flask,aws,docker,k8s,linux,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,k8s,aws,linux,)](https://skillicons.dev)
 
 
 <!--
