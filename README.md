@@ -1,15 +1,15 @@
 ## Hello, I'm rin5um 🍵
 
 ### About Me
-I am interested in Security.
+I am interested in Computer Network.
 
 ### Currently Learning
-Computer Network, Operating System, Verilog HDL, Hardware Security
+BGP, RPKI, OS, eBPF, Security
 
 ### Experience
 JANOG58 NOC (Cable Team)  |  [NOC member (Team BAKUCHIKU)](https://www.janog.gr.jp/meeting/janog58/nocmember/)
 
-2026年度 SecHack365 研究駆動コース 合格 & 参加中
+2026年度 SecHack365 研究駆動コース 合格
 
 ### 🌱 Skills
 **Languages**
