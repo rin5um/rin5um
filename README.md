@@ -7,7 +7,7 @@ I am interested in Computer Network.
 BGP, RPKI, OS, eBPF, Security
 
 ### Experience
-JANOG58 NOC Cable Team / [NOC member (Team BAKUCHIKU)](https://www.janog.gr.jp/meeting/janog58/nocmember/)
+JANOG58 NOC Cable Team, [NOC Member (Team BAKUCHIKU)](https://www.janog.gr.jp/meeting/janog58/nocmember/)
 
 SecHack365 2026 – Research-Driven Course
 
