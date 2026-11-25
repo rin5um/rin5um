@@ -4,7 +4,8 @@
 I am interested in computer networking, distributed systems, and AI infrastructure.
 
 ### Currently Learning
-BGP, RPKI, OS, eBPF, Security
+- BGP
+- RPKI / ROV
 
 ### Experience
 JANOG58 NOC Cable Team, [NOC Member (Team BAKUCHIKU)](https://www.janog.gr.jp/meeting/janog58/nocmember/)
