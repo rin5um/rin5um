@@ -1,7 +1,7 @@
 ## Hello, I'm rin5um 🍵
 
 ### About Me
-I am interested in Computer Network.
+I am interested in computer network, distributed systems, and AI infrastructure.
 
 ### Currently Learning
 BGP, RPKI, OS, eBPF, Security
